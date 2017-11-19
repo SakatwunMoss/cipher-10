@@ -1,5 +1,5 @@
 # cipher-10
-under construction
+hard to improve accuracy
 
 dependency
 
